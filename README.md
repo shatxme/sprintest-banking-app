@@ -43,6 +43,10 @@ API доступен по адресу `http://localhost:4321/api/qa-banking/`
 
 [qa-banking-bugs.md](qa-banking-bugs.md)
 
+## Курс
+
+Это приложение — часть курса [Sprintest](https://github.com/shatxme/sprintest).
+
 ## Лицензия
 
 MIT — используйте свободно.
