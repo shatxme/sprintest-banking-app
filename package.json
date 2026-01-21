@@ -1,0 +1,33 @@
+{
+  "name": "sprintest-banking-app",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Тестовое банковское приложение с намеренными багами для практики QA",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/node": "^9.0.0",
+    "@astrojs/react": "^4.4.0",
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-label": "^2.1.7",
+    "@radix-ui/react-progress": "^1.1.7",
+    "@radix-ui/react-slot": "^1.2.3",
+    "astro": "^5.6.1",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.452.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tailwind-merge": "^2.6.0",
+    "tailwindcss": "^4.1.16",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.16"
+  }
+}
